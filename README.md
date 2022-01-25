@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Siberia.</h3>
 
 - 📫 Contact me with email **Lexxxlexus01@gmail.com**
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Revolt9k.visitor-badge&left_text=My%20Page%20Visitors)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=revolt9k&show_icons=true&theme=none&locale=en&layout=compact" alt="revolt9k" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
