@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Konstantin Alekseev</h1>
+<h1 align="center">Hi 👋, I'm Konstantin</h1>
 <h3 align="center">A passionate frontend developer from Siberia.</h3>
  
 <p><img align="left" height="190px" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=revolt9k&show_icons=true&theme=dark&locale=en&layout=compact" alt="revolt9k" /></p>
