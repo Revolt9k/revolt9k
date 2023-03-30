@@ -10,5 +10,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=revolt9k&theme=dark" alt="revolt9k" /></p>
 
-Contact me with <b>[Telegram](https://t.me/RevoltJKE "feel free to ask")</b>.
+Contact me with <b>[Telegram](https://t.me/? "feel free to ask")</b>.
 <p></p>
